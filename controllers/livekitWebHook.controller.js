@@ -2,8 +2,8 @@ import { WebhookReceiver } from "livekit-server-sdk";
 import { Streams } from "../models/stream.model.js"; // Adjust the import path as necessary
 
 const receiver = new WebhookReceiver(
-  "APIv2cUrGJZ47gs",
-  "cSzKKUrsqtTReMnpQXl8fDisLCNBF0CoeWJ1uWL3R0bA"
+  "LIVEKIT_API_KEY",
+  "LIVEKIT_SECRETE_TOKEN"
 );
 
 export const handleLivekitWebhook = async (req, res) => {
