@@ -8,6 +8,6 @@ Note:
 you need to replay your LiveKit URL,API,and Token.
 also you need to configure livekit WebHook, for that you need your application endpoint.
 
-if you have any doubt feel free to reach out at me ! all likes are availabe in my profile.
+if you have any doubt feel free to reach out at me ! all links are availabe in my profile.
 
 happy coading
