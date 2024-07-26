@@ -11,14 +11,14 @@ import { User } from "../models/user.model.js";
 import { Streams } from "../models/stream.model.js";
 
 const roomService = new RoomServiceClient(
-  "https://streamtest-ybp0gjju.livekit.cloud",
-  "APIv2cUrGJZ47gs",
-  "cSzKKUrsqtTReMnpQXl8fDisLCNBF0CoeWJ1uWL3R0bA"
+  "LIVESTREAM_URL",
+  "LIVESTREM_API_KEY",
+  "LIVESTERAM_SECREAT_TOKEN"
 );
 const ingressClient = new IngressClient(
-  "https://streamtest-ybp0gjju.livekit.cloud",
-  "APIv2cUrGJZ47gs",
-  "cSzKKUrsqtTReMnpQXl8fDisLCNBF0CoeWJ1uWL3R0bA"
+  "LIVESTREAM_URL",
+  "LIVESTREM_API_KEY",
+  "LIVESTERAM_SECREAT_TOKEN"
 );
 
 export const resetIngresses = async (hostIdentity) => {
