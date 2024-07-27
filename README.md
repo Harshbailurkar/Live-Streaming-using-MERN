@@ -5,6 +5,11 @@ this project goal is to generate these stream-url and stream_key.
 ![image](https://github.com/user-attachments/assets/a6835580-a858-467e-abe8-957a3f237d29)
 
 demo API's: https://www.postman.com/harsh-bailurkar/workspace/harsh-musify/collection/32198019-2b958275-ef51-47ca-8348-1f3d46213b21?action=share&creator=32198019
+
+In Frontend I just use simple react components, to generate these stream keys and URL , view  all live streams , watch stream etc.
+
+note: first go to /login to login then you will able to watch live streams.
+
 <br>
 <br>
 Note:
